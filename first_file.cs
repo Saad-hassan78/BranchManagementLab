@@ -4,8 +4,9 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Muhammad Saad Hassan");
-        Console.WriteLine("24-ST-058");
+        Console.WriteLine("Your Name");
+        Console.WriteLine("Your Roll Number");
         Console.WriteLine("FSc Subjects: Physics, Computer, Math");
+        Console.WriteLine("1st Semester Subjects: Programming, Discrete Mathematics");
     }
 }
